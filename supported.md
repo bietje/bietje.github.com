@@ -1,7 +1,7 @@
 ---
 layout: page
-title : Open Source Projects
-header : Project archive
+title : Supported Projects
+header : Supported Projects
 ---
 {% include JB/setup %}
 
