@@ -12,6 +12,6 @@ header : Project archive
 IRQ's, a device interface, etc..</p>
 <hr />
 
-<h2><a href="/linux-gpio/">Moordspel bot</a></h2>
+<h2><a href="/moordspel-bot/">Moordspel bot</a></h2>
 <p>A dutch IRC bot to play 'het Moordspel'. Not yet translated into english.</p>
 <hr />
