@@ -27,6 +27,8 @@ author :
 #
 production_url : http://www.michelmegens.net/
 
+is_project_page : false
+
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
 JB :
