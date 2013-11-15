@@ -15,7 +15,21 @@ author :
   email : dev@michelmegens.net
   github : bietje
   twitter : micheeeelm
-  feedburner : 
+  feedburner :
+
+leftmenu:
+  url1:
+    url: /projects.html
+    text-main: Open source projects
+    text-small: Projects I am maintaining right now
+  url2:
+    url: /supported.html
+    text-main: Projects I support
+    text-small: Stuff you might like
+  url3:
+    url: /archive.html
+    text-main: Posts archive
+    text-small: Stuff I've written in the past.
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
