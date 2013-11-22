@@ -12,7 +12,7 @@ header : Project archive
 IRQ's, a device interface, etc.. The module is located at <strong>src/drivers/lion</strong>.</p>
 <hr />
 
-<h2><a href="/pconf/">Lion</a></h2>
+<h2><a href="/pconf/">PConf</a></h2>
 <p>PConf is a tool to configure Linux kernel modules. It supports both out-of-tree building and in-tree building.</p>
 <hr />
 
