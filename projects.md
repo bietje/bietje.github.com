@@ -7,9 +7,9 @@ header : Project archive
 
 <hr />
 
-<h2><a href="/linux/">Lion</a></h2>
+<h2><a href="#">New GPIO (interface)</a></h2>
 <p>A Linux GPIO kernel module to ease the use of GPIO using Linux. It supports all kind of awesome features, such as; general pin manipulation,
-IRQ's, a device interface, etc.. The module is located at <strong>src/drivers/lion</strong>.</p>
+IRQ's, a device interface, etc.. The module is located at <strong>src/drivers/staging/ngpio/</strong>.</p>
 <hr />
 
 <h2><a href="/pconf/">PConf</a></h2>
