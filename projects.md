@@ -7,9 +7,10 @@ header : Project archive
 
 <hr />
 
-<h2><a href="#">New GPIO (interface)</a></h2>
-<p>A Linux GPIO kernel module to ease the use of GPIO using Linux. It supports all kind of awesome features, such as; general pin manipulation,
-IRQ's, a device interface, etc.. The module is located at <strong>drivers/staging/ngpio/</strong>.</p>
+<h2><a href="/etaos/">ETA/OS</a></h2>
+<p>ETA/OS is an embedded, small scale kernel/operating system. It provides basic
+support for the hardware its running on, such as a scheduler, memory management
+and device drivers.</p>
 <hr />
 
 <h2><a href="/pconf/">PConf</a></h2>
