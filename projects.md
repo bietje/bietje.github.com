@@ -7,7 +7,7 @@ header : Project archive
 
 <hr />
 
-<h2><a href="/etaos/">ETA/OS</a></h2>
+<h2><a href="/etaos-site/">ETA/OS</a></h2>
 <p>ETA/OS is an embedded, small scale kernel/operating system. It provides basic
 support for the hardware its running on, such as a scheduler, memory management
 and device drivers.</p>
