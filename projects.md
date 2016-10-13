@@ -13,11 +13,20 @@ support for the hardware its running on, such as a scheduler, memory management
 and device drivers.</p>
 <hr />
 
-<h2><a href="/pconf/">PConf</a></h2>
-<p>PConf is a tool to configure Linux kernel modules. It supports both out-of-tree building and in-tree building.</p>
+<h2><a href="http://etaos.bietje.net/calypso">Calypso</a></h2>
+<p>Calypso is a unit test automation framework for ETA/OS. It reads
+preconfigured configuration files from a configuration files and executes them,
+a set of them or a single test based on configuration options.</p>
+<hr />
+
+<h2><a href="http://etaos/bietje.net/zeno">Zeno</a></h2>
+<p>Zeno is the ETA/OS package manager. It can be used to manage ETA/OS versions
+and generate setups for ETA/OS applications / solutions.</p>
 <hr />
 
 
-<h2><a href="/moordspel-bot/">Moordspel bot</a></h2>
-<p>A dutch IRC bot to play 'het Moordspel'. Not yet translated into english.</p>
+<h2><a href="https://git.bietje.net/bietje/irssi-dutchop">irssi-dutchop</a></h2>
+<p>Scripts built to make the life of a channel operator during the JOTA / JOTI
+as easy as possible.</p>
 <hr />
+
