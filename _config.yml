@@ -12,6 +12,7 @@ roughe: true
 #
 title : bietje.net
 tagline: Michel (bietje) Megens
+home-url: http://bietje.net
 author :
   name : Michel Megens
   email : dev@michelmegens.net
