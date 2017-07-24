@@ -19,7 +19,7 @@ preconfigured configuration files from a configuration files and executes them,
 a set of them or a single test based on configuration options.</p>
 <hr />
 
-<h2><a href="http://etaos/bietje.net/zeno">Zeno</a></h2>
+<h2><a href="http://etaos.bietje.net/zeno">Zeno</a></h2>
 <p>Zeno is the ETA/OS package manager. It can be used to manage ETA/OS versions
 and generate setups for ETA/OS applications / solutions.</p>
 <hr />
