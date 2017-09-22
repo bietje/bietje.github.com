@@ -24,6 +24,12 @@ a set of them or a single test based on configuration options.</p>
 and generate setups for ETA/OS applications / solutions.</p>
 <hr />
 
+<h2><a href="http://etaos.bietje.net/avrupload">AVRUpload</a></h2>
+<p>AVRUpload is a tool, which acts as a proxy to avrdude. On some systems the
+default TTY settings are preventing avrdude to successfully upload binaries to
+hardware. AVRupload forcefully sets the correct settings before using avrdude
+for the upload.</p>
+<hr />
 
 <h2><a href="https://git.bietje.net/bietje/irssi-dutchop">irssi-dutchop</a></h2>
 <p>Scripts built to make the life of a channel operator during the JOTA / JOTI
